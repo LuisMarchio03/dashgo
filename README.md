@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luanyata/dashgo?color=%2304D361">
 
   <a href="https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-a0aa64206/">
     <img alt="Made by Luís Gabriel" src="https://img.shields.io/badge/made%20by-LuisMarchio03-%2304D361">
