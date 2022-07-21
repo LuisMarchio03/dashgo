@@ -22,9 +22,3 @@ Dashboard para monitoria de usuários inscritos na plataforma
 
  ## 📸 Prints
 
-* Dashboard
-<img alt="Dashoboard" src="./images/dashboard.png" />
-* Lista de Usuários
-<img alt="User List" src="./images/user-list.png" />
-* Criar Usuário
-<img alt="Create User" src="./images/create-user.png" />
