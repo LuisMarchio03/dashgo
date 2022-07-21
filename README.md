@@ -14,7 +14,7 @@
 
 ## About Dashgo:
 
-Interface de um painel administrativo contendo fluxo de authentucaçaõ, dashboard, listagem e cadastro usando Chakra UI no Next.js. Vamos ultilizar React Query para melhorar a expericência de uso da nossa aplicação criando uma camada de cache de dados entre o front-end e back-end. 
+**Interface de um painel administrativo contendo fluxo de authentucaçaõ, dashboard, listagem e cadastro usando Chakra UI no Next.js. Vamos ultilizar React Query para melhorar a expericência de uso da nossa aplicação criando uma camada de cache de dados entre o front-end e back-end.**
 
  ## 📸 Prints
 
